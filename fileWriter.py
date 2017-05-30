@@ -1,6 +1,6 @@
 import os
 
-_static_path = "/home/anudeep3998/cse535/code/"
+_static_path = "/home/narmadha/cse535/code/"
 file_path = [_static_path+'tweetDump/eng3.txt', _static_path+'tweetDump/ger3.txt', _static_path+'tweetDump/rus3.txt']
 custom_header = '{\n    "tweets" : ['
 custom_tail = ']}'
