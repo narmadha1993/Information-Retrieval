@@ -14,10 +14,10 @@ import subprocess
 from customTweet import customTweet
 from fileWriter import fileWriter
 
-ckey = 'ZiS77nnXgwbPIVZ5AsvxERCnK'
-csecret = 'VKcf7Sfd5mwmpcjSuGOWVCkiLMfpoMOZ5i4LLidCZtwhMUBv8Q'
-atoken = '3526839621-Poj6uaa1CNn5WPXK3GFD91NMs0Do1WON3yxkUpE'
-asecret = 'Fo0YlmTqMnLbeH3GsgNn1VyEmCIW3IGWuDKDrQ6cWWXD3'
+ckey = ''
+csecret = ''
+atoken = ''
+asecret = ''
 
 count = 1
 interesting_count=0
